@@ -410,6 +410,80 @@ function createLinkToSchema(){
     link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.98.pdf`)
   } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.6'){
     link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.99.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.100.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.1' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.101.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.3' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.102.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.4' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.103.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.104.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.105.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.1' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.106.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.3' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.107.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.4' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.108.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.109.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.6'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.110.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.1' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.111.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.3' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.112.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.4' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.113.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.114.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.115.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.116.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.3' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.117.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.4' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.118.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.119.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.120.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.1' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.121.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.3' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.122.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.4' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.123.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.9' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.124.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.11' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.7'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.125.pdf`)
+  } else if (Number(allValue.power) <= 630 && allValue.schemeNumber5 === '111.25' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.126.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.26' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.127.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.13' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.128.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.15' && allValue.schemeNumber7 === '210.1' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.129.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.25' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.130.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.26' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.131.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.13' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.132.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.15' && allValue.schemeNumber7 === '210.3' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.133.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.25' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.134.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.26' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.135.pdf`)
+  } else if (Number(allValue.power) >= 1000 && Number(allValue.power) <= 1250 && allValue.schemeNumber5 === '111.13' && allValue.schemeNumber7 === '210.4' && allValue.schemeNumber9 === '211.5'){
+    link.setAttribute("href", `https://xn--80aaefjbqfsdyj4agz4o7a.xn--p1ai/upload/configurator1/schemes/1.1/1.136.pdf`)
   }
 }
 
